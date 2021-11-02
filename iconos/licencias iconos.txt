@@ -1,0 +1,11 @@
+logo user
+<div>Iconos diseñados por <a href="https://www.flaticon.es/autores/zafdesign" title="zafdesign">zafdesign</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+logo taller
+<div>Iconos diseñados por <a href="" title="vectorspoint">vectorspoint</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+propietario vehiculo
+<div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
+
+estrella
+<div>Iconos diseñados por <a href="" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
